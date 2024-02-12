@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635174255874",
+    "project_id": "goodlivez-8th",
+    "storage_bucket": "goodlivez-8th.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635174255874:android:62b35b0aa3de660179561b",
+        "android_client_info": {
+          "package_name": "com.example.goodlivez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635174255874-s3lmijifs93vt5sheli7jmi6tq56ahoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goodlivez",
+            "certificate_hash": "23e4a52048414c0641d704a78e02a06c27253d01"
+          }
+        },
+        {
+          "client_id": "635174255874-1sr6rr2spqi781ek8c88opjprne0lbgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOvfI5MX2HQDIeHD12YCUZSZbmNNP1j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635174255874-1sr6rr2spqi781ek8c88opjprne0lbgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
